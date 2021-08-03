@@ -1,0 +1,19 @@
+{
+    "stores": [
+        {
+            "id": 1,
+            "address": "123 Nashville Rd, Gallatin, TN",
+            "sqft": 810,
+            "handicapAccess": true
+        },
+        {
+            "id": 2,
+            "address": "432 NewYork Rd, Gallatin, TN",
+            "sqft": 1000,
+            "handicapAccess": false
+        }
+    ],
+    "customers": [
+
+    ]
+}
