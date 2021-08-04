@@ -30,11 +30,13 @@
     "employees": [
         {
             "id": 1,
-            "firstName": "Albert"
+            "firstName": "Albert",
+            "locationId" : 1
         },
         {
             "id": 2,
-            "firstName": "Emmy"
+            "firstName": "Emmy",
+            "locationId" : 2
         }
     ],
     "productTypes": [
